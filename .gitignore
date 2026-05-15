@@ -1,0 +1,8 @@
+# Ignore dataset and extracted files
+data/
+
+# Optional: ignore Python cache and environment
+__pycache__/
+*.py[cod]
+.env
+venv/
